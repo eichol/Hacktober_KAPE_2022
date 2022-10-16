@@ -1,4 +1,5 @@
-# Welcome Superheroes
+# Welcome Superheroes  
+![alt text](https://github.com/eichol/Hacktober_KAPE_2022/blob/main/help.jpg?raw=true)
 
 ## How to quickly set up and run KAPE
 
