@@ -12,7 +12,7 @@
 
 ### Credits for the autoupdate scripts used by the batch file go to
 
-[AndrewRathbun](https://github.com/AndrewRathbun) [grayfold3d](https://github.com/grayfold3d)
+[AndrewRathbun](https://github.com/AndrewRathbun), [grayfold3d](https://github.com/grayfold3d)
 
 ## Links and Ressources
 
