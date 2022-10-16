@@ -8,7 +8,7 @@
 4.  Execute the kape-UpdateEverything.bat. You will have to press "Enter" halfway through the batch.
 5.  Press "Enter" to close the batch script at the end.
 6.  Start "gkape.exe"
-7.  Fly!
+7.  Fly! (if you need help you can watch a SANS tutorial [here](https://www.youtube.com/watch?v=iYyWZSNBNcw))
 
 ### Credits for the autoupdate scripts used by the batch file go to
 
