@@ -2,7 +2,7 @@
 
 ## How to quickly set up and run KAPE
 
-1.  Download KAPE from [here](https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape). You will have to provide an eMail address to get the download link. I recommend [this service](https://temp-mail.org/en/).
+1.  Download KAPE from [here](https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape). You will have to provide an eMail address. I recommend [this service](https://temp-mail.org/en/).
 2.  Extract the KAPE Zip file to a directory of your choice.
 3.  Download the [kape-UpdateEverything.bat](https://raw.githubusercontent.com/eichol/Hacktober_KAPE_2022/main/kape-UpdateEverything.bat) from this repository to the same directory as the kape.exe.
 4.  Execute the kape-UpdateEverything.bat. You will have to press "Enter" halfway through the batch.
