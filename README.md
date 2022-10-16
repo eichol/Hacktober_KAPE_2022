@@ -16,7 +16,7 @@
 
 ## Links and Ressources
 
-All you need, you will find here: https://github.com/AndrewRathbun/Awesome-KAPE
+All you need, you will find here: https://github.com/AndrewRathbun/Awesome-KAPE.  
 However, for your convenience I've listed the links I deem most interesting below:
 
 ### Official
