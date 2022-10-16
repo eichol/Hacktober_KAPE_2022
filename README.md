@@ -27,7 +27,8 @@ However, for your convenience I've listed the links I deem most interesting belo
 - https://github.com/EricZimmerman/KapeFiles \- Modules and Targets
 - https://github.com/EricZimmerman/KapeDocs \- Official Documentation
 - https://github.com/EricZimmerman/KapeFiles/blob/master/CONTRIBUTING.md \- How to contribute
-- https://github.com/EricZimmerman?tab=repositories \- All Zimmerman Tools (very worthwhile)
+- https://ericzimmerman.github.io/#!index.md \- All Zimmerman Tools (very worthwhile)
+- https://f001.backblazeb2.com/file/EricZimmermanTools/TimelineExplorer.zip (this is a must have)
 
 ### Other
 
